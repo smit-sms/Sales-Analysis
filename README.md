@@ -11,23 +11,31 @@ Sales analysis of an ***online electronics store***.   This project contains bas
 - Plotting graphical results.
 
 ## The following questions are analyzed and successfully answered:
-*1. What was the best month for sales?*
-	![1](./Screenshots/1.png)
+**1. What was the best month for sales?**
 
-*2. What city sold the most product?*
-	![2](./Screenshots/2.png)
+![1](./Screenshots/1.png)
 
-*3. What time should we display advertisements to maximize the likelihood of purchases?*
-	![3](./Screenshots/3.png)
-    As per the chart, the advertisements should be displayed between 11am to 12pm and between 6pm to 8pm to maximize the likelihood of purchase.**
+**2. What city sold the most product?**
 
-*4. What products are most often sold together?*
-	![4](./Screenshots/4.JPG)
-    **The 2 most common products sold together are iPhone and Lightning Charging Cable.**
+![2](./Screenshots/2.png)
 
-*5. What product is sold the most?*
-	![5](./Screenshots/5.png)
-    **The AAA Batteries are the most sold product followed by AA Batteries with USB-C and Lightning Charging Cables coming close. Since these items are more cheaper than many other items there is a possibility of this being the reason for most selling of these items.**
+**3. What time should we display advertisements to maximize the likelihood of purchases?**
+
+![3](./Screenshots/3.png)
+
+As per the chart, the advertisements should be displayed between 11am to 12pm and between 6pm to 8pm to maximize the likelihood of purchase.**
+
+**4. What products are most often sold together?**
+	
+![4](./Screenshots/4.JPG)
+
+The 2 most common products sold together are iPhone and Lightning Charging Cable.**
+
+**5. What product is sold the most?**
+
+![5](./Screenshots/5.png)
+
+The AAA Batteries are the most sold product followed by AA Batteries with USB-C and Lightning Charging Cables coming close. Since these items are more cheaper than many other items there is a possibility of this being the reason for most selling of these items.
 
 ## License
 
