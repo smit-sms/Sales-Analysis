@@ -1,6 +1,6 @@
 # Sales-Analysis
 
-Sales analysis of an ***online electronics store***.   This project contains basic analysis of the dataset from an online electronic store in US and aims to answer some basic questions that may arise for the store manager/owner giving a much better insight about the store and how to increase the productivity. The dataset can be found in the ```Data``` Directory. The dataset is of the year 2019 which is monthly segregated. The combined dataset is in the  ```all_data.csv``` file.
+Sales analysis of an ***online electronics store***.   This project contains basic analysis of the dataset from an online electronic store in US and aims to answer some basic questions that may arise for the store manager/owner giving a much better insight about the store and how to increase the productivity. The dataset can be found in the ```Data``` Directory. The dataset is of the year 2019 which is monthly segregated. The combined dataset is in the  ```all_data.csv``` file. Step by step execution can be found in the '[Sales-Analysis.ipynb](https://github.com/smit-sms/Sales-Analysis/blob/main/Sales-Analysis.ipynb)' File.
 
 ## Main stages of this analysis are:
 
