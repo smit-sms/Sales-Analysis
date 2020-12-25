@@ -23,13 +23,13 @@ Sales analysis of an ***online electronics store***.   This project contains bas
 
 ![3](./Screenshots/3.png)
 
-As per the chart, the advertisements should be displayed between 11am to 12pm and between 6pm to 8pm to maximize the likelihood of purchase.**
+As per the chart, the advertisements should be displayed between 11am to 12pm and between 6pm to 8pm to maximize the likelihood of purchase.
 
 **4. What products are most often sold together?**
 	
 ![4](./Screenshots/4.JPG)
 
-The 2 most common products sold together are iPhone and Lightning Charging Cable.**
+The 2 most common products sold together are iPhone and Lightning Charging Cable.
 
 **5. What product is sold the most?**
 
