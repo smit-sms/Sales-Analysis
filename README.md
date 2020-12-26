@@ -12,21 +12,21 @@ Sales analysis of an ***online electronics store***.   This project contains bas
 
 ## The following questions are analyzed and successfully answered:
 **1. What was the best month for sales?**
-<details><summary><b>Answer</b></summary>
+<details><summary>Answer</summary>
 	
 ![1](./Screenshots/1.png)
 
 </details>
 
 **2. What city sold the most product?**
-<details><summary><b>Answer</b></summary>
+<details><summary>Answer</summary>
 
 ![2](./Screenshots/2.png)
 
 </details>
 
 **3. What time should we display advertisements to maximize the likelihood of purchases?**
-<details><summary><b>Answer</b></summary>
+<details><summary>Answer</summary>
 
 ![3](./Screenshots/3.png)
 
@@ -35,7 +35,7 @@ As per the chart, the advertisements should be displayed between 11am to 12pm an
 </details>
 
 **4. What products are most often sold together?**
-<details><summary><b>Answer</b></summary>
+<details><summary>Answer</summary>
 	
 ![4](./Screenshots/4.JPG)
 
@@ -44,7 +44,7 @@ The 2 most common products sold together are iPhone and Lightning Charging Cable
 </details>
 	
 **5. What product is sold the most?**
-<details><summary><b>Answer</b></summary>
+<details><summary>Answer</summary>
 
 ![5](./Screenshots/5.png)
 
